@@ -1,6 +1,6 @@
-##A list of my favorite things
-1.ALX
-2.GIT
-3.Linux
+#A list of my favorite things#
+* ALX
+* GIT
+* Linux
 
 **That is it**
